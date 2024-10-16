@@ -47,6 +47,12 @@ Height: 750px;
     color: rgb(255, 255, 255);
     background-color: rgb(229, 84, 115);
 }
+
+.para
+{
+    text-align: center;
+    margin-left: 30px;
+}
 .banner-image-container
 {
     width: 50%;
